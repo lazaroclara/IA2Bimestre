@@ -46,22 +46,18 @@ A hipótese inicial do grupo é que os modelos de Inteligência Artificial conse
 As matrizes mostram onde cada modelo acertou e onde confundiu as classes de vinhos.
 
 * **Matriz de Confusão - Árvore de Decisão:**
-  ![Matriz de Confusão - Árvore](<img width="554" height="442" alt="image" src="https://github.com/user-attachments/assets/9ed35488-8160-4af1-9205-6c0a151c27de" />
-)
+  ![Matriz de Confusão - Árvore](<img width="493" height="407" alt="Matriz de Confusão - Árvore de Decisão" src="https://github.com/user-attachments/assets/ae499e63-9ce0-4af6-a8d0-1943d8f573ed" />)
 
 * **Matriz de Confusão - Rede Neural MLP:**
-  ![Matriz de Confusão - MLP](<img width="553" height="442" alt="image" src="https://github.com/user-attachments/assets/4e3ecf7d-3ab8-419e-a514-f2e19e4c90fe" />
-)
+  ![Matriz de Confusão - MLP](<img width="496" height="409" alt="Matriz de Confusão - Rede Neural MLP" src="https://github.com/user-attachments/assets/75ca7c19-2704-42b6-ba8c-bfbba1bd41a3" />).
 
 #### 2. Curva de Perda (Loss Curve) da MLP
 Demonstra o erro decrescendo a cada época, provando que a Rede Neural aprendeu com o algoritmo de Retropropagação (*Backpropagation*).
-![Curva de Perda - MLP](<img width="621" height="427" alt="image" src="https://github.com/user-attachments/assets/192b00eb-351b-4847-abcc-93a5a0ffffbf" />
-)
+![Curva de Perda - MLP](<img width="619" height="422" alt="Curva de Perda Durante o Treinamento" src="https://github.com/user-attachments/assets/d2a26bab-76a3-4f7d-adb9-4a4721c84691" />)
 
 #### 3. Comparação Gráfica entre Modelos
 Gráfico final que consolida o desempenho das duas arquiteturas sobre a base de teste.
-![Comparação de Acurácia](<img width="617" height="408" alt="image" src="https://github.com/user-attachments/assets/7362efd4-acae-4410-b30a-9e57816a63d0" />
-)
+![Comparação de Acurácia](<img width="619" height="407" alt="Comparação Direta de Desempenho" src="https://github.com/user-attachments/assets/cd331c92-92f9-4ac8-a1c4-ab02915d54bd" />)
 
 ---
 
