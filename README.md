@@ -6,6 +6,7 @@ Disciplina de Inteligência Artificial , Professor Munif , Unicesumar 2026
 - Amanda Lorena Ferreira Silverio - RA: 23130634-2
 - Ana Clara Paim Lázaro - RA: 23087481-2
 - Brenda Kethleen Cirqueira Lucas - RA: 23103459-2
+- ESOFT7SNB
 
 ---
 
