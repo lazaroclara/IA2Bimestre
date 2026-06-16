@@ -45,10 +45,10 @@ A hipótese inicial do grupo é que os modelos de Inteligência Artificial conse
 As matrizes mostram onde cada modelo acertou e onde confundiu as classes de vinhos.
 
 * **Matriz de Confusão - Árvore de Decisão:**
-  <img width="493" height="407" alt="Matriz de Confusão - Árvore de Decisão" src="https://github.com/user-attachments/assets/ae499e63-9ce0-4af6-a8d0-1943d8f573ed" />
+<img width="493" height="407" alt="Matriz de Confusão - Árvore de Decisão" src="https://github.com/user-attachments/assets/ae499e63-9ce0-4af6-a8d0-1943d8f573ed" />
 
 * **Matriz de Confusão - Rede Neural MLP:**
-  <img width="496" height="409" alt="Matriz de Confusão - Rede Neural MLP" src="https://github.com/user-attachments/assets/75ca7c19-2704-42b6-ba8c-bfbba1bd41a3" />
+<img width="496" height="409" alt="Matriz de Confusão - Rede Neural MLP" src="https://github.com/user-attachments/assets/75ca7c19-2704-42b6-ba8c-bfbba1bd41a3" />
 
 #### 2. Curva de Perda (Loss Curve) da MLP
 Demonstra o erro decrescendo a cada época, provando que a Rede Neural aprendeu com o algoritmo de Retropropagação (*Backpropagation*).
