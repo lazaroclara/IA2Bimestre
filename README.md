@@ -39,8 +39,6 @@ A hipótese inicial do grupo é que os modelos de Inteligência Artificial conse
 
 ## 5. Avaliação dos Modelos e Resultados
 
-*(Nota da equipe: Lembrem-se de salvar as imagens geradas pelo Google Colab e salvá-las na mesma pasta do repositório no GitHub, inserindo os links delas nos campos indicados abaixo)*
-
 ### Gráficos Obrigatórios
 
 #### 1. Matrizes de Confusão
